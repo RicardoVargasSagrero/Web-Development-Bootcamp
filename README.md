@@ -7,3 +7,10 @@ docs.emmet.io/cheat-sheet/
 
 # Unicode table
   https://unicode-table.com/es/
+# Templates colors for the website
+This website contains color Palettes for designers
+https://colorhunt.co/palette/164611
+ https://colorhunt.co/
+
+#Emoji graphics from different operating Systems
+emojipedio.org

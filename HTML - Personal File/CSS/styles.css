@@ -1,0 +1,38 @@
+/********************** Tag Selector *******************/
+
+body{
+  background-color: #e1f2fb;
+}
+/*Coment*/
+hr{
+  height: 0px;
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 7.5px;
+  width: 30%;
+}
+h1{
+  color: #333333;
+}
+h3{
+  color: black;
+}
+/*Sudo Class Hover*/
+img:hover{
+  background-color: gold;
+}
+/********************** Class Selector *******************/
+/*You can use the class selector where there're many elements with the same
+style*/
+.swim{
+  background-color: blue;
+}
+.cirucular{
+  border-radius: 100%;
+}
+/********************** ID Selector *******************/
+/*You'll use ID when there is only one element of that type
+we have to think very carfully when we want to use an ID*/
+#hobbie{
+  color: gray;
+}
