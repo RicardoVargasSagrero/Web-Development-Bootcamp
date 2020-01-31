@@ -14,3 +14,13 @@ https://colorhunt.co/palette/164611
 
 #Emoji graphics from different operating Systems
 emojipedio.org
+
+#ReOpen Sidebar of the project folder in atom
+Reopen the ‘toggle tree view’
+‘toggle tree view’
+
+#Favicon for making an icon for the website
+www.favicon.cc
+
+#Tool to debug CSS code
+Pesticide
